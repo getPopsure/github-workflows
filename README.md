@@ -52,5 +52,5 @@ If you have duplicated workflows across different projects, feel free to open a 
 
 ### Next steps
 
-[] Add a visual regression workflow
-[] [Cache dependencies to speed up workflows](https://docs.github.com/en/actions/using-workflows/caching-dependencies-to-speed-up-workflows)
+- Add a visual regression workflow  
+- [Cache dependencies to speed up workflows](https://docs.github.com/en/actions/using-workflows/caching-dependencies-to-speed-up-workflows)
