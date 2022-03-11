@@ -48,4 +48,4 @@ You can learn more on the [GitHub website.](https://docs.github.com/en/actions/u
 
 ### Contributing
 
-If you have duplicated workflows across different projects, feel free to open a PR to include them here. 
+If you have duplicated workflows across different projects, feel free to open a PR to include them here. This project uses [SemVer](https://semver.org/) for versioning. 
