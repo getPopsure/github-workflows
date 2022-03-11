@@ -1,4 +1,4 @@
-name: Yarn Lint Workflow
+name: Yarn Test Workflow
 
 on:
   workflow_call:
@@ -17,4 +17,4 @@ jobs:
         run: |
           echo "//npm.pkg.github.com/:_authToken=${{ secrets.NPM_TOKEN }}" >> .npmrc
           yarn install
-      - run: yarn lint
+      - run: yarn test
