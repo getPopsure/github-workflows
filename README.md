@@ -49,3 +49,8 @@ You can learn more on the [GitHub website.](https://docs.github.com/en/actions/u
 ### Contributing
 
 If you have duplicated workflows across different projects, feel free to open a PR to include them here. This project uses [SemVer](https://semver.org/) for versioning. 
+
+### Next steps
+
+[] Add a visual regression workflow
+[] [Cache dependencies to speed up workflows](https://docs.github.com/en/actions/using-workflows/caching-dependencies-to-speed-up-workflows)
