@@ -12,6 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: yarn install
         run: |
